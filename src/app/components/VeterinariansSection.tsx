@@ -1,9 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import cirurgia from '../img/cirurgia.svg';
-import cuidados from '../img/cuidados.svg';
-import style from "./veterinariansection.scss";
-import './veterinariansection.scss';
+import cirurgia from '../assets/images/cirurgia.svg';
+import cuidados from '../assets/images/cuidados.svg';
 
 function VeterinariansSection() {
   return (
@@ -53,7 +51,7 @@ function VeterinariansSection() {
           </div>
         </section>
         <footer className="footer text-center my-4">
-          <a href="#"><button type="button" className='custom-button'>Sou Veterinário SalveVet</button></a>
+          <a href="#"><button type="button" className='custom-button'>Saber Mais</button></a>
         </footer>
       </main>
     </div>
