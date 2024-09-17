@@ -10,7 +10,7 @@ import Rating from './Rating';
 function PerfilVetAdmin() {
   return (
     <div className="bg-white">
-      <div className='flex justify-between items-center w-full h-[70] bg-[#F5F5F5]'>
+      <div className='flex justify-between items-center w-full h-[70px] bg-[#F5F5F5]'>
           <a href="" className='mx-auto'><img src={logo} alt=""  className='w-48 h-16'/></a>
           <LuLayoutDashboard size={40} className='mr-5'/>
       </div>
