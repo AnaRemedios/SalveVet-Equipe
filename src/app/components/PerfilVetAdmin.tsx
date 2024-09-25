@@ -3,7 +3,7 @@ import { PiChatsLight } from "react-icons/pi";
 import { LuHotel, LuFacebook, LuInstagram, LuLinkedin, LuLayoutDashboard } from "react-icons/lu";
 import { IoLocationOutline } from "react-icons/io5";
 import { TbPencilMinus, TbPhotoEdit } from "react-icons/tb";
-import logo from '../assets/images/logo.svg'
+import logo from '../assets/img/logo.svg'
 import Rating from './Rating';
 
 
